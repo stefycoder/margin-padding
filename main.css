@@ -1,0 +1,14 @@
+.lenguaje{
+	background-color: white;
+	height: 240px;
+	width: 220px;
+	border: 2px solid #EB8459;
+	margin: none;
+	text-align: center;
+}
+p{
+	text-align: left;
+	margin-top: 1px;
+	margin-bottom: 10px;
+}
+/* Agrega aqui tu CSS */
